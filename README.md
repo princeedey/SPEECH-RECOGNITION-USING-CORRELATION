@@ -1,0 +1,2 @@
+# SPEECH-RECOGNITION-USING-CORRELATION
+This repository contains the function code for identifying different set of words. In this project, we store a set of words and then run this function in the command window with the word that we wish to recognize. If the word is present, a specific sound is heard which identifies as yes. Otherwise another sound is heard which identifies it as no. The audio files are present in .wav format and are available on the Internet.
